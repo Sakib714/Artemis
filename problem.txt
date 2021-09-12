@@ -1,0 +1,7 @@
+Logo alignment
+
+Web title alignment
+
+image alignment
+
+Button href
